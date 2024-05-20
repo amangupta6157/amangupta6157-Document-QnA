@@ -6,6 +6,9 @@ This application allows users to upload PDF documents and ask questions regardin
 Features
 
 PDF Upload: Users can upload PDF documents.
+
 Question Answering: Users can ask questions related to the content of uploaded PDFs.
+
 Answer Display: The application displays the answer to the user’s question.
+
 Interactivity: Users can ask follow-up or new questions on the same document.
