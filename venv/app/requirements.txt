@@ -1,0 +1,14 @@
+fastapi
+sqlalchemy
+psycopg2-binary
+PyMuPDF
+uvicorn
+python-dotenv
+faiss-cpu
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
