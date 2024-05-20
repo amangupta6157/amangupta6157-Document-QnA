@@ -1,0 +1,12 @@
+.upload-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .file-upload {
+    display: none;
+  }
+  
+  button {
+    cursor: pointer;
+  }
