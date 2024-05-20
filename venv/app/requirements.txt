@@ -1,5 +1,6 @@
 fastapi
 sqlalchemy
+pydantic
 psycopg2-binary
 PyMuPDF
 uvicorn
@@ -8,7 +9,4 @@ faiss-cpu
 google-generativeai
 python-dotenv
 langchain
-PyPDF2
-chromadb
-faiss-cpu
 langchain_google_genai
